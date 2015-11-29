@@ -1,2 +1,2 @@
 # react-router-sitemap
-A sitemap generator
+A sitemap example
